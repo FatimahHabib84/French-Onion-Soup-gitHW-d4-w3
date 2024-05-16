@@ -46,7 +46,7 @@ h1{
     left: 35%;
     top: 70%;
     position: absolute;
-    animation: rotation1 3s infinite alternate;
+    animation: rotation 3s 2 alternate;
 }
 #maindiv{
     position: relative;
